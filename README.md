@@ -1,6 +1,6 @@
 # API de Análise de Sentimentos - V1
 
-Está é uma API desenvolvida com FastAPI para realizaar análise de sentimentos em textos. A API recebe um texto como entrada e retornar o sentimento associado.
+Está é uma API desenvolvida com FastAPI para realizar análise de sentimentos em textos. A API recebe um texto como entrada e retornar o sentimento associado.
 
 ## Requisitos 
 
