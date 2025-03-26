@@ -66,7 +66,7 @@ uvicorn app.main:app --reload
 - Resposta: A API retornará um JSON com o sentimento identificado:
 ```
 {
-    "sentiment": "Feliz"
+    "sentiment": "Satisfeito"
 }
 ```
 
